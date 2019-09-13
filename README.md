@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi! This is a test of my abilities to read a tutorial!
